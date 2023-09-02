@@ -19,7 +19,7 @@ designation: Devops инженер
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Я страстный devops инженер  с опытом работы 5 лет. Я создал  проекты архитектуры на базе [Kubernetes](https://kubernetes.io/) а также Proxmox и Vmware. Мои любимыми инструментами были teraform, packer,ansible, salstack, docker, podman, helm, helmfly   и другие'
+summary: 'Я страстный devops инженер  с опытом работы 5 лет. Я создал  проекты архитектуры на базе [Kubernetes](https://kubernetes.io/) а также Proxmox и Vmware. Мои любимымые инструменты teraform, packer,ansible, salstack, docker, podman, helm, helmfly   и другие'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -56,7 +56,7 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
+- title: "Мое резюме"
   url: "files/resume_CV_ru.pdf"
 
 # Show your badges

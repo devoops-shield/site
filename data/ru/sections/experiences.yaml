@@ -56,15 +56,42 @@ experiences:
     -  Cбор логов efk,graylog.  
    
 - company:
-    name: фабрика информационных технологий
+    name: Фабрика информационных технологий
     url: "https://fabit.ru"
     location: Росссия Москва
     overview: Разработчик интеллектуальных платформ для «умного города», производитель программного обеспечения 
   positions:
-  - designation: системный администратор - Devops инженер
+  - designation: Cистемный администратор - Devops инженер
     start: 2015
     end: 2018
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Администрирование парка компьютеров на основе linux, windows. 
+    - Администрирование серверов на базе Linux (centos, debian,proxmox,gentoo) Windows 2012, подержка сетевого оборудования.
+    - Подержание высоко-нагруженных HighLoad++ площадок в рабочем состоянии 24/7 (2do2go.ru, all.culture.ru, culture.ru, cultreg.ru, vsopen.ru и др. )
+    - Администрирование Voip (asterisk), настройка очередей,групповые вызовы,follow me,ivr,cdr,мониторинг атс,создание отчетов.
+    - Администрирование сайтов на разных движках (modx,wordpress,joomla,yii,java)
+    - Cборка docker-images, и доставка на продовые площадки (gitlab ci/cd, ansible)
+    - Управления контейнерными кластерами (Swarm, Kubernetes.)
+    - Создание инфомата на базе OpenSource решений.
+    - Работа с базами данных mysql, postgresql,mongo. 
+    - Работа с php, node.js, java, python.
+    - Мониторинг с помощью zabbix,grafana.
+    - Cбор логов efk,graylog.
+
+- company: 
+    name: МБОУ СОШ №40
+    url: "https://school40bel.gosuslugi.ru/"
+    location: Росссия Белгрод
+    overview: Муниципальное бюджетное общеобразовательное учреждение "Средняя общеобразовательная школа №40" г. Белгород
+  positions:
+  - designation: Инженер ИКТ
+    start: 2014
+    end: 2015
+    responsibilities:
+    - Обслуживание парка компьютеров, сервера ОС (windows,linux)  
+    - Администрирование серверов на базе Linux (debian,proxmox) Windows  подержка сетевого оборудования.
+    - Создание собственого IPTV, обслуживание. 
+    - Ремонт и настройка компютеров переферии (проекторы, оргтехника и тд.) 
+    - Ведение и продвижение официального сайта организации.Техническое обеспечение сайта 
+    - Настройка электронных подписей на основе КриптоПро CSP. 
+    - Обслуживание и модернизация ЛВС. 
