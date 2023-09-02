@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Опыт работы
   id: experiences
   enable: true
   weight: 3
@@ -11,44 +11,50 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Datana
+    url: "https://www.datana.ru"
+    location: Россия Москва
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Datana повышает эффективность промышленных производств. Цифровые советчики на базе Datana Mash и Datana Sense для оптимизации отдельных технологических процессов.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Devops инженер
+    start: 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Design and develop XYZ tool for ABC task
     - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
     - Lead backend team.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+      #  - designation: Junior Software Engineer
+      #    start: Nov 2017
+      #end: Oct 2019
+      # responsibilities:
+      #- Implement and test xyz feature for abc tool.
+      # - Support client for abc tool.
+      #- Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+    name: Onecta
+    url: "https://onecta.ru"
+    location: Росссия Москва
+    overview: Адаптивный контакт-центр для устойчивого развития бизнеса и человека.
+  positions: 
+  - designation: Devops инженер
+    start: 2018
+    #end: May 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
+    -  Написание разного рода интеграций по REST-API.(python,node.js,php)
+    -  Cборка и насройка продовых окружений.
+    -  Сборка кода и доставка на продовые площадки. (gitlab ci/cd,jenkins,ansible) 
+    -  Построение разного рода VPN туннелей.
+    -  Мониторинг с помощью zabbix,grafana,victoriametrics.  
+    -  Администрирование парка серверов на основе linux, windows.
+    -  Администрирование Voip, настройка очереди,групповые вызовы,follow me,ivr,cdr,мониторинг атс, создание отчетов.
+    -  Работа с базами данных mysql, postgresql, mongo.
+    -  Cбор логов efk,graylog.  
+   
 - company:
     name: Intern Counting Company (ICC).
     url: "https://www.example.com"
