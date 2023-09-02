@@ -56,14 +56,14 @@ experiences:
     -  Cбор логов efk,graylog.  
    
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: фабрика информационных технологий
+    url: "https://fabit.ru"
+    location: Росссия Москва
+    overview: Разработчик интеллектуальных платформ для «умного города», производитель программного обеспечения 
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: системный администратор - Devops инженер
+    start: 2015
+    end: 2018
     responsibilities:
     - Count lost of interns.
     - Count more interns.
