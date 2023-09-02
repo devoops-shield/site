@@ -69,9 +69,9 @@ badges:
   badge: "https://images.credly.com/size/340x340/images/9e4096f6-038b-4c0a-ad60-832ef84cbf14/LF_logobadge.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Fundamentals for Kyverno
+  url: "https://www.credly.com/earner/earned/badge/ee0ae201-e28c-4a77-8729-85b44fba0838"
+  badge: "https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png"
 
 - type: certification
   name: Artificial Intelligence and Machine Learning
