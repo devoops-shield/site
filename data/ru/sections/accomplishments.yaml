@@ -19,13 +19,13 @@ accomplishments:
   courseOverview: Этот курс вооружит вас знаниями, необходимыми для понимания того, как работает сеть Kubernetes, как настраивать и управлять сетью Calico, а также как защитить ваш кластер, следуя современным лучшим практикам, с уверенностью, необходимой вам для запуска критически важных рабочих нагрузок в рабочей среде.
   certificateURL: "https://courses.academy.tigera.io/certificates/df574b6ae9b84e0fbd31e86b787c0af0"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: 
+  timeline: "2023"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: Linuxfoundation
+    url: linuxfoundation.org
+  courseOverview: "Обладатели этого звания продемонстрировали навыки, знания и компетенции для выполнения обязанностей администратора Kubernetes. Участники продемонстрировали навыки управления жизненным циклом приложений, установки, настройки и проверки, основных концепций, сетей, планирования, безопасности, обслуживания кластеров, ведения журнала / мониторинга, хранения и устранения неполадок."
+  certificateURL: "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/13f60cf6-18e4-4ff2-95f0-ea6857f81372-sergei-cherniaev-a2b1d78a-ddbc-4a14-9fc0-eb948dccfba1-certificate.pdf"
 
 - name: Grokking the System Design Interview
   timeline: "Jan 2018 - Sept 2018"
