@@ -35,12 +35,12 @@ accomplishments:
   courseOverview: Обладатели курса Cybersecurity Essentials могут применять методы безопасности и меры предосторожности во время онлайн-действий, чтобы минимизировать риски и надежно защитить личную и профессиональную информацию от раскрытия и компрометации. Они также могут определить, что делать в случае утечки данных. Обладатели  могут применять методы обеспечения безопасности и меры предосторожности во время онлайн-действий, чтобы минимизировать риски и надежно защитить личную и профессиональную информацию от раскрытия и компрометации
   certificateURL: "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/13f60cf6-18e4-4ff2-95f0-ea6857f81372-sergei-cherniaev-7eaecced-d1de-424c-9c9d-cde0aeade958-certificate.pdf"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Introduction to GitOps
+  timeline: "2023"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
+    name: Linuxfoundation
+    url: linuxfoundation.org
+  courseOverview: Обладатели курса  знакомится  с GitOp могут объяснить, что такое GitOps, а также его ключевые принципы, практики и технологии в контексте настройки непрерывной доставки в Kubernetes. Они понимают две модели согласования и три основных инструмента, используемых для реализации GitOps в Kubernetes. Они понимают преимущества GitOps как настроить инфраструктуру, развернуть приложения и восстановиться после сбоя, используя удобные для разработчиков рабочие процессы на основе git.
+  certificateURL: "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/13f60cf6-18e4-4ff2-95f0-ea6857f81372-sergei-cherniaev-7eaecced-d1de-424c-9c9d-cde0aeade958-certificate.pdf"
  
 
