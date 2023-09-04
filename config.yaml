@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: en-us
-title: "Devops-shild"
+title: "Devops-Shild"
 
 # Use Hugo modules to add theme
 module:
@@ -22,10 +22,10 @@ module:
 languages:
   en:
     languageName: English
-    weight: 1
+    weight: 2
   ru:
     languageName: Russian
-    weight: 3
+    weight: 1
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
