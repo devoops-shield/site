@@ -1,6 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
-languageCode: en-us
+#languageCode: en-us
+languageCode: ru 
 title: "Devops-Shild"
 
 # Use Hugo modules to add theme
