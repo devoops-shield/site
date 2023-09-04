@@ -11,36 +11,36 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Certified Calico Operator Level 1
+  timeline: "2023"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: academy.tigera
+    url: academy.tigera.io
+  courseOverview: "This course will equip you with the knowledge you need to understand how a Kubernetes network works, how to set up and manage a Calico network, and how to secure your cluster following current best practices with the confidence you need to run critical workloads in production."
+  certificateURL: "https://courses.academy.tigera.io/certificates/df574b6ae9b84e0fbd31e86b787c0af0"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Kubernetes Fundamentals
+  timeline: "2023"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: Linuxfoundation
+    url: linuxfoundation.org
+  courseOverview: "The holders of this title have demonstrated the skills, knowledge and competencies to perform the duties of a Kubernetes administrator. Participants demonstrated skills in application lifecycle management, installation, configuration and verification, basic concepts, networking, planning, security, cluster maintenance, logging/monitoring, storage, and troubleshooting."
+  certificateURL: "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/13f60cf6-18e4-4ff2-95f0-ea6857f81372-sergei-cherniaev-a2b1d78a-ddbc-4a14-9fc0-eb948dccfba1-certificate.pdf"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: Cybersecurity Essentials
+  timeline: "2023"
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: Linuxfoundation
+    url: linuxfoundation.org
+  courseOverview: "Cybersecurity Essentials course holders can apply security practices and precautions during online activities to minimize risks and securely protect personal and professional information from disclosure and compromise. They can also determine what to do in the event of a data breach. Owners can apply security practices and precautions during online activities to minimize risks and securely protect personal and professional information from disclosure and compromise."
+  certificateURL: "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/13f60cf6-18e4-4ff2-95f0-ea6857f81372-sergei-cherniaev-7eaecced-d1de-424c-9c9d-cde0aeade958-certificate.pdf"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Introduction to GitOps
+  timeline: "2023"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
- 
+    name: Linuxfoundation
+    url: linuxfoundation.org
+  courseOverview: "Course participants introductory to GitOp can explain what GitOps is, as well as its key principles, practices, and technologies, in the context of setting up continuous delivery in Kubernetes. They understand the two consensus models and three main tools used to implement GitOps on Kubernetes. They understand the benefits of GitOps, how to set up infrastructure, deploy applications, and recover from failure using developer-friendly git-based workflows."
+  certificateURL: "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/13f60cf6-18e4-4ff2-95f0-ea6857f81372-sergei-cherniaev-7eaecced-d1de-424c-9c9d-cde0aeade958-certificate.pdf"
+
 

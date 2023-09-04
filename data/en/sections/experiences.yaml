@@ -27,38 +27,46 @@ experiences:
     - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
     - Lead backend team.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+- company:
+    name: Onecta
+    url: "https://onecta.ru"
+    location: Russia Moskow
+    overview: An adaptive contact center for sustainable business and human development.
+  positions:
+  - designation: Devops Enginer
+    start: 2018
+    #end: May 2017
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    -  Writing various kinds of REST-API integrations. (python, node.js, php)
+    -  Building and configuring product environments.
+    -  Code build and delivery to production platforms. (gitlab ci/cd, jenkins, ansible)
+    -  Building various kinds of VPN tunnels.
+    -  Monitoring with zabbix,grafana,victoriametrics.
+    -  Administration of a fleet of servers based on linux, windows.
+    -  Voip administration, queue setting, group calls, follow me, ivr, cdr, PBX monitoring, reporting.
+    -  Working with Mysql, Postgres, Mongo databases.
+    -  Collection of logs efk, graylog.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Factory of information technologies
+    url: "https://fabit.ru"
+    location: Russia Moskow
+    overview: Developer of smart platforms for smart city, software manufacturer.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Cистемный администратор - Devops инженер
+    start: 2015
+    end: 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Administration of a fleet of computers based on linux, windows.
+    - Administration of servers based on Linux (centos, debian, proxmox, gentoo) Windows 2012, support for network equipment.
+    - Maintaining highly loaded HighLoad ++ sites in working condition 24/7 (2do2go.ru, all.culture.ru, culture.ru, cultreg.ru, vsopen.ru, etc.)
+    - Administration of Voip (asterisk), setting up queues, group calls, follow me, ivr, cdr, PBX monitoring, reporting.
+    - Site administration on different engines (modx, wordpress, joomla, yii, java)
+    - Building docker-images, and delivery to production sites (gitlab ci/cd, ansible)
+    - Container cluster management (Swarm, Kubernetes.)
+    - Creation of infomat based on OpenSource solutions.
+    - Working with Mysql, Postgres, Mongo databases.
+    - Working with PHP, Node.js, Java, Python.
+    - Monitoring with zabbix,grafana.
+    - Collection of logs efk, graylog.
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.

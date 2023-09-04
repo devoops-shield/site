@@ -40,18 +40,18 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "#"
 
-- name: Twitter
-  icon: "fab fa-twitter"
+    #- name: Twitter
+    #  icon: "fab fa-twitter"
+    #  url: "#"
+
+    #- name: Facebook
+    #  icon: "fab fa-facebook"
   url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+    #- name: Mastadon
+    #  icon: "fab fa-mastodon"
+    #  url: "#"
+    #  rel: "me noopener"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -63,20 +63,37 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
+badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Kubernetes Fundamentals
+  url: "https://www.credly.com/badges/78eb9d5b-9460-49ef-9431-3d98f63d67b0"
+  badge: "https://images.credly.com/size/340x340/images/9e4096f6-038b-4c0a-ad60-832ef84cbf14/LF_logobadge.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Fundamentals for Kyverno
+  url: "https://www.credly.com/earner/earned/badge/ee0ae201-e28c-4a77-8729-85b44fba0838"
+  badge: "https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Cilium LoadBalancer IPAM and BGP Service Advertisement
+  url: "https://www.credly.com/earner/earned/badge/16b9b325-f45f-48fa-9e20-af2f94478da1"
+  badge: "https://images.credly.com/size/340x340/images/ed9924cd-a75b-44e5-8576-137a6b72d708/image.png"
+
+- type: certification
+  name: Network Foundations
+  url: "https://academy.solo.io/share/gamification/badges/external/a6e146f6-82b5-46c3-82f8-5b0bdc119701?lang=en"
+  badge: "https://cdn5.dcbstatic.com/files/s/o/solo_docebosaas_com/assets/badges/original/b0809a585dad0d681e1e86177e5e8c1bb30585f5.png"
+
+
+- type: certification
+  name: Cilium Cluster Mesh
+  url: "https://www.credly.com/earner/earned/badge/2aa6cc08-46f0-4337-945a-77e601da6a19"
+  badge: "https://images.credly.com/size/340x340/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png"
+
+- type: certification
+  name:  Cilium Flow Encryption
+  url: "https://www.credly.com/earner/earned/badge/f4d362c5-5c3f-4c34-a82d-07ced8835db2"
+  badge: "https://images.credly.com/size/340x340/images/cfd7b863-74e2-449f-96dd-956e0118ef28/image.png"
 
 - type: soft-skill-indicator
   name: Leadership

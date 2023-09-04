@@ -42,7 +42,7 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Использование в качестве основной операционной системы. Умеет писать сценарии bash/shell."
+  summary: "Использование в качестве основной операционной системы. Умею писать сценарии bash/shell."
 
 - name: Git
   logo: /images/sections/skills/git.png
