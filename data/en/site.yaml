@@ -22,7 +22,7 @@ description: Portfolio and personal blog of Sergei.
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Devops-Shild Blog
+  title: DevOops-Shield Blog
   type: website
   description: Portfolio and personal blog of Sergei Cherniaev.
     #  image: images/author/john.png

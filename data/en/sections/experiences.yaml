@@ -53,7 +53,7 @@ experiences:
     location: Russia Moskow
     overview: Developer of smart platforms for smart city, software manufacturer.
   positions:
-  - designation: Cистемный администратор - Devops инженер
+  - designation: System administrator - Devops Enginer
     start: 2015
     end: 2018
     responsibilities:
@@ -69,4 +69,21 @@ experiences:
     - Working with PHP, Node.js, Java, Python.
     - Monitoring with zabbix,grafana.
     - Collection of logs efk, graylog.
+- company:
+    name: MBOU Secondary School №40
+    url: "https://school40bel.gosuslugi.ru/"
+    location: Russia,Belgorod
+    overview: Municipal budgetary educational institution "Secondary School No. 40"
+  positions:
+  - designation: Engineer IT
+    start: 2014
+    end: 2015
+    responsibilities:
+    - Maintenance of a computer park, OS server (windows, linux)
+    - Administration of servers based on Linux (debian, proxmox) Windows support for network equipment.
+    - Creation of own IPTV, service.
+    - Ремонт и настройка компютеров переферии (проекторы, оргтехника и тд.)
+    - Ведение и продвижение официального сайта организации.Техническое обеспечение сайта
+    - Настройка электронных подписей на основе КриптоПро CSP.
+    - Обслуживание и модернизация ЛВС.
 
