@@ -6,9 +6,9 @@ greeting: "Hi, I am"
 image: "images/author/avatar.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "devops-shild@proton.me"
+  email: "devoops-shield@proton.me"
  #phone: "+0123456789"
-  github: devops-shild
+  github: devoops-shield
   linkedin: s-chernyaev
 
 # some summary about what you do

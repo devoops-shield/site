@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://devoops-shield.ru
 
 languageCode: en-us
-title: "Devops-Shild"
+title: "DevOops-Shield"
 
 # Use Hugo modules to add theme
 module:
@@ -22,13 +22,16 @@ module:
 languages:
   en:
     languageName: English
-    weight: 2
+    weight: 1
   ru:
     languageName: Russian
-    weight: 1
+    weight: 2
+      #  bn:     
+      #    languageName: Russian
+      #    weight: 2
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
-#DefaultContentLanguage: ru
+#DefaultContentLanguage: bn
 
 # Allow raw html in markdown file
 markup:

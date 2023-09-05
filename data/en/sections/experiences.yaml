@@ -82,8 +82,38 @@ experiences:
     - Maintenance of a computer park, OS server (windows, linux)
     - Administration of servers based on Linux (debian, proxmox) Windows support for network equipment.
     - Creation of own IPTV, service.
-    - Ремонт и настройка компютеров переферии (проекторы, оргтехника и тд.)
-    - Ведение и продвижение официального сайта организации.Техническое обеспечение сайта
-    - Настройка электронных подписей на основе КриптоПро CSP.
-    - Обслуживание и модернизация ЛВС.
+    - Repair and setup of peripheral computers (projectors, office equipment, etc.)
+    - Maintenance and promotion of the official website of the organization. Technical support of the site
+    - Setting up electronic signatures based on CryptoPro CSP.
+    - Maintenance and modernization of the LAN.
+
+- company:
+    name: Energomash-stroy, holding company
+    url: "www.energomash-stroy.ru"
+    location: Russia,Belgorod
+    overview: Manufacture of steam boilers and their parts.
+  positions: 
+  - designation: System administrator
+    start: 2011
+    end: 2011
+    responsibilities:
+    - Maintenance of a computer park, OS server (windows, linux)
+    - Administration of Windows-based servers, support of network equipment.
+    - Administration of servers, ip-telephony, mini PBX. Working with GSM and Voip modules, Asterisk.
+    - Oracle database administration.
+
+- company:
+    name: Taxi Positive
+    #url: ""
+    location: Russia,Belgorod
+    overview: Taxi
+  positions:
+  - designation: System administrator
+    start: 2011
+    end: 2011
+    responsibilities:
+    - Maintenance of a computer park, OS server (windows, linux)
+    - Administration of Windows-based servers, support of network equipment.
+    - Administration of servers, ip-telephony, mini PBX. Working with GSM and Voip modules, Asterisk.
+    - Oracle database administration.
 

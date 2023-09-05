@@ -13,7 +13,7 @@ section:
 skills:
 - name: Инфраструктура
   logo: "/images/sections/skills/infra.png"
-  summary: "Создание и проектирование частной и гибридной инфраструктуры с помощью виртуализации Proxmox, Vmware, Hyper-V."
+  summary: "Создание и проектирование частной и гибридной инфраструктуры с использованием гипервизоров виртуализации Proxmox, Vmware, Hyper-V."
 # url: "https://kubernetes.io/"
  
 - name: Kubernetes
@@ -28,7 +28,7 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Работал с большинством основных облаков, таких как Yandex cloud, Selectel, Lancloud и т.д."
+  summary: "Работал с большинством основных облаков, таких как Yandex cloud, Selectel, Lancloud,Linode,OVH,Hetzner,DigitalOcean и т.д."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg

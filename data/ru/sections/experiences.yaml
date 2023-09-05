@@ -81,7 +81,7 @@ experiences:
 - company: 
     name: МБОУ СОШ №40
     url: "https://school40bel.gosuslugi.ru/"
-    location: Росссия Белгрод
+    location: Росссия Белгород
     overview: Муниципальное бюджетное общеобразовательное учреждение "Средняя общеобразовательная школа №40" г. Белгород
   positions:
   - designation: Инженер ИКТ
@@ -99,7 +99,7 @@ experiences:
 - company: 
     name: Энергомаш-строй, холдинговая компания
     url: "www.energomash-stroy.ru"
-    location: Росссия Белгрод
+    location: Росссия Белгород
     overview: Производство паровых котлов и их частей 
   positions:
   - designation: Cистемный администратор
@@ -114,7 +114,7 @@ experiences:
 - company: 
     name: Такси Позитив
     #url: ""
-    location: Росссия Белгрод
+    location: Росссия Белгород
     overview: Такси
   positions:
   - designation: Cистемный администратор
