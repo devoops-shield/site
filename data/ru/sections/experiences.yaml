@@ -49,11 +49,11 @@ experiences:
     -  Cборка и насройка продовых окружений.
     -  Сборка кода и доставка на продовые площадки. (gitlab ci/cd,jenkins,ansible) 
     -  Построение разного рода VPN туннелей.
-    -  Мониторинг с помощью zabbix,grafana,victoriametrics.  
+    -  Мониторинг с помощью zabbix, grafana, victoriametrics.  
     -  Администрирование парка серверов на основе linux, windows.
-    -  Администрирование Voip, настройка очереди,групповые вызовы,follow me,ivr,cdr,мониторинг атс, создание отчетов.
+    -  Администрирование Voip, настройка очереди,групповые вызовы,follow me, ivr, cdr, мониторинг атс, создание отчетов.
     -  Работа с базами данных mysql, postgresql, mongo.
-    -  Cбор логов efk,graylog.  
+    -  Cбор логов efk, graylog.  
    
 - company:
     name: Фабрика информационных технологий
@@ -66,17 +66,17 @@ experiences:
     end: 2018
     responsibilities:
     - Администрирование парка компьютеров на основе linux, windows. 
-    - Администрирование серверов на базе Linux (centos, debian,proxmox,gentoo) Windows 2012, подержка сетевого оборудования.
+    - Администрирование серверов на базе Linux (Centos, Debian,Proxmox,Gentoo) Windows 2012, подержка сетевого оборудования.
     - Подержание высоко-нагруженных HighLoad++ площадок в рабочем состоянии 24/7 (2do2go.ru, all.culture.ru, culture.ru, cultreg.ru, vsopen.ru и др. )
-    - Администрирование Voip (asterisk), настройка очередей,групповые вызовы,follow me,ivr,cdr,мониторинг атс,создание отчетов.
-    - Администрирование сайтов на разных движках (modx,wordpress,joomla,yii,java)
+    - Администрирование Voip (asterisk), настройка очередей,групповые вызовы,follow me, ivr, cdr, мониторинг атс, создание отчетов.
+    - Администрирование сайтов на разных движках (modx, wordpress, joomla, yii, java)
     - Cборка docker-images, и доставка на продовые площадки (gitlab ci/cd, ansible)
     - Управления контейнерными кластерами (Swarm, Kubernetes.)
     - Создание инфомата на базе OpenSource решений.
-    - Работа с базами данных mysql, postgresql,mongo. 
-    - Работа с php, node.js, java, python.
-    - Мониторинг с помощью zabbix,grafana.
-    - Cбор логов efk,graylog.
+    - Работа с базами данных Mysql, Postgresql, Mongo. 
+    - Работа с PHP, Node.js, Java, Python.
+    - Мониторинг с помощью Zabbix, Grafana.
+    - Cбор логов Efk, Graylog.
 
 - company: 
     name: МБОУ СОШ №40

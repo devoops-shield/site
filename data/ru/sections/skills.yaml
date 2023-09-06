@@ -18,7 +18,7 @@ skills:
  
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "создание кластера kubernetes с помощью (kubeadm, rke2, rke, k3s)"
+  summary: "Cоздание кластера kubernetes с помощью (kubeadm, rke2, rke, k3s)"
     #url: "https://kubernetes.io/"
 
 #- name: Go Development
@@ -28,7 +28,7 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Имею опыт с  работы  облаками, таких как Yandex cloud, Selectel, Lancloud, Linode, OVH, Hetzner, DigitalOcean и т.д."
+  summary: "Имею опыт с  работы  облаками: Yandex cloud, Selectel, Lancloud, Linode, OVH, Hetzner, DigitalOcean и т.д."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -37,12 +37,12 @@ skills:
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
-  summary: "Возможность настройки метрик Prometheus. Опыт работы с PromQL, AlertManager. Также имеется опыт написания экспортеров метрик."
+  summary: "Возможность настройки метрик Prometheus. Опыт работы с PromQL, AlertManager. Также имею, опыт написания экспортеров метрик."
   #url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Имею опыт отпыт работы с различными Linux системами. На данынй момент качестве основной операционной системы PopOS.  Умею писать сценарии bash/shell, Python"
+  summary: "Имею опыт работы с различными Linux системами. На данный момент качестве основной операционной системы использую PopOS.  Умею писать сценарии bash/shell, Python"
 
 - name: Git
   logo: /images/sections/skills/git.png
