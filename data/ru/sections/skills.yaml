@@ -28,7 +28,7 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Работал с большинством основных облаков, таких как Yandex cloud, Selectel, Lancloud,Linode,OVH,Hetzner,DigitalOcean и т.д."
+  summary: "Имею опыт с  работы  облаками, таких как Yandex cloud, Selectel, Lancloud, Linode, OVH, Hetzner, DigitalOcean и т.д."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -37,16 +37,16 @@ skills:
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
-  summary: "Возможность настройки, настройки метрик Prometheus. Опыт работы с PromQL, AlertManager. Также имеется опыт написания экспортеров метрик."
+  summary: "Возможность настройки метрик Prometheus. Опыт работы с PromQL, AlertManager. Также имеется опыт написания экспортеров метрик."
   #url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Использование в качестве основной операционной системы. Умею писать сценарии bash/shell."
+  summary: "Имею опыт отпыт работы с различными Linux системами. На данынй момент качестве основной операционной системы PopOS.  Умею писать сценарии bash/shell, Python"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Опыт разработки на базе git. В основном используйте Github. Также есть опыт работы с GitLab."
+  summary: "Опыт разработки на базе git. В основном использую Gitlab. Также есть опыт работы с GitHub."
   #url: "https://git-scm.com/"
 
 #- name: C++
