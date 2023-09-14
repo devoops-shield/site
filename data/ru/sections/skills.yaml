@@ -18,7 +18,7 @@ skills:
  
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Cоздание кластера kubernetes с помощью (kubeadm, rke2, rke, k3s)"
+  summary: "Cоздание кластеров kubernetes с помощью (kubeadm, rke2, rke, k3s)"
     #url: "https://kubernetes.io/"
 
 #- name: Go Development

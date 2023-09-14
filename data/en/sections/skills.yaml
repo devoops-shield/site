@@ -13,7 +13,7 @@ section:
 skills:
 - name: Инфраструктура
   logo: "/images/sections/skills/infra.png"
-  summary: "Creation and design of private and hybrid infrastructure using Proxmox, Vmware, Hyper-V virtualization hypervisors."
+  summary: "Creation and design of private and hybrid work using Proxmox, Vmware, Hyper-V virtualization hypervisors."
 # url: "https://kubernetes.io/"
 
 - name: Kubernetes
@@ -28,7 +28,7 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most major clouds such as Yandex cloud, Selectel, Lancloud, Linode, OVH, Hetzner, Digital Ocean, etc."
+  summary: "I have experience with clouds: Yandex cloud, Selectel, Lancloud, Linode, OVH, Hetzner, DigitalOcean, etc."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -37,15 +37,15 @@ skills:
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Ability to customize Prometheus metrics. Experience with PromQL, AlertManager. I also have experience in writing exporters of metrics"
   #url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Использование в качестве основной операционной системы. Умею писать сценарии bash/shell."
+  summary: "I have experience with various Linux systems. At the moment, I use PopOS as the main operating system. Can write bash/shell scripts, Python"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Опыт разработки на базе git. В основном используйте Github. Также есть опыт работы с GitLab."
+  summary: "Git development experience. I mainly use Gitlab. I also have experience with GitHub."
   #url: "https://git-scm.com/"
 

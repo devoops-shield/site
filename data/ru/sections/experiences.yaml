@@ -23,10 +23,18 @@ experiences:
     end: 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
+    - Проектирование и создание инфраструктуры в изолированном контуре (Proxmox, gpu sharing,  Haproxy, K8s, Rancher, Kafka, Mongo, Prometheus, Consul, VictoriaMetrics, Grafana, MinIO, Elk, Ansible, Nexus)
+    - Проектирование и создание HA vpn-bastion (ocserv)
+    - Проектирование и создание собственной гибридной инфраструктуры на базе Proxmox, Vmware и облака  Lancloud на базе Haper-V.
+    - Системы мониторинга Prometheus operator, Victoriametrics HA, Grafana, Karma.
+    - Системы логирования ELK, EFK, EVK. 
+    - Конфигурирование хранилищ CEPH, MinIO, Glusterfs, OpenEBS и др.
+    - Системы резервного копирования VM (Veeam Backup and Recovery), k8s (Velero)  
+    - Написание пайплайнов Gitlab cd /cd  Docker DND для языков Python, Node.js, Kotlin, Java.
+    - Управление конфигурациями (Ansible, Saltstack).
+    - Система управления доступами (AD, Ldap)
+    - Системы оркестрации Docker Swarm, Kubernetes(K3s, Rke, Rke2, Kubeadm).
+    - Проектировние кластера для IoT систем LXD(LXDMosaic), Резервное копирование (LXMIN), k8s(K3s). Система управления версиями ПО (Flux).  
       #  - designation: Junior Software Engineer
       #    start: Nov 2017
       #end: Oct 2019

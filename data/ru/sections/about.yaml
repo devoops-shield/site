@@ -19,7 +19,7 @@ designation: Devops инженер
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Я devops инженер  с опытом работы более 5 лет. Мной  созданы  проекты архитектуры  для  Магнитагорского НМЛК и Краснадарского НМЛК на базе [Kubernetes](https://kubernetes.io/), а также Proxmox и Vmware. Мои любимымые инструменты teraform, packer, ansible, salstack, docker, podman, helm, helmfly   и другие'
+summary: 'Я Devops инженер  с опытом работы более 5 лет. Мной  созданы  проекты архитектуры  для  Магнитагорского НМЛК и Краснадарского НМЛК на базе [Kubernetes](https://kubernetes.io/), а также Proxmox и Vmware. Мои любимымые инструменты Teraform, Packer, Ansible, Salstack, Docker, Podman, Helm, Helmfly   и другие'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

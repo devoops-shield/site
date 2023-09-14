@@ -11,21 +11,32 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Datana
+    url: "https://www.datana.ru"
+    location: Russia Moskow
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Datana improves industrial efficiency. Digital advisors based on Datana Mash and Datana Sense to optimize individual technological processes.
   positions:
-  - designation: Senior Software Engineer
+  - designation: Devops Enginer
     start: Nov 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Design and creation of infrastructure in an isolated loop (Proxmox, gpu sharing, Haproxy, K8s, Rancher, Kafka, Mongo, Prometheus, Consul, VictoriaMetrics, Grafana, MinIO, Elk, Ansible, Nexus)
+    - Design and creation of HA vpn-bastion (ocserv).
+    - Design and creation of your own hybrid infrastructure based on Proxmox, Vmware and Lancloud cloud based on Haper-V.
+    - Monitoring systems Prometheus operator, Victoriametrics HA, Grafana, Karma.
+    - Logging systems ELK, EFK, EVK.
+    - Configuring CEPH, MinIO, Glusterfs, OpenEBS storages, etc.
+    - VM backup systems (Veeam Backup and Recovery), k8s (Velero)
+    - Writing Gitlab cd /cd Docker DND pipelines for Python, Node.js, Kotlin, Java.
+    - Configuration management (Ansible, Saltstack).
+    - Access control system (AD, Ldap)
+    - Docker Swarm, Kubernetes (K3s, Rke, Rke2, Kubeadm) orchestration systems.
+    - Cluster design for IoT systems LXD (LXDMosaic), Backup (LXMIN), k8s (K3s). Software version control system (Flux).
+
+
 
 - company:
     name: Onecta
