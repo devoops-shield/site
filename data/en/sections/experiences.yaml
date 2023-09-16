@@ -23,8 +23,8 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and creation of infrastructure in an isolated loop (Proxmox, gpu sharing, Haproxy, K8s, Rancher, Kafka, Mongo, Prometheus, Consul, VictoriaMetrics, Grafana, MinIO, Elk, Ansible, Nexus)
-    - Design and creation of HA vpn-bastion (ocserv).
+    - Design and creation of infrastructure in an isolated loop (Proxmox, Teraform, gpu sharing, Haproxy, K8s, Rancher, Kafka, Redis, KeyDB, `Mongo, Prometheus, Consul, VictoriaMetrics, Grafana, MinIO, Elk, Ansible, Nexus)
+    - Design and creation of HA vpn-bastion (ocserv)
     - Design and creation of your own hybrid infrastructure based on Proxmox, Vmware and Lancloud cloud based on Haper-V.
     - Monitoring systems Prometheus operator, Victoriametrics HA, Grafana, Karma.
     - Logging systems ELK, EFK, EVK.
@@ -35,7 +35,7 @@ experiences:
     - Access control system (AD, Ldap)
     - Docker Swarm, Kubernetes (K3s, Rke, Rke2, Kubeadm) orchestration systems.
     - Cluster design for IoT systems LXD (LXDMosaic), Backup (LXMIN), k8s (K3s). Software version control system (Flux).
-
+    - Converting docker-compose.yaml to Helm, as well as experience in writing charts.
 
 
 - company:

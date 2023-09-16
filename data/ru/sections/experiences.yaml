@@ -23,7 +23,7 @@ experiences:
     end: 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Проектирование и создание инфраструктуры в изолированном контуре (Proxmox, gpu sharing,  Haproxy, K8s, Rancher, Kafka, Mongo, Prometheus, Consul, VictoriaMetrics, Grafana, MinIO, Elk, Ansible, Nexus)
+    - Проектирование и создание инфраструктуры в изолированном контуре (Proxmox, Teraform, gpu sharing,  Haproxy, K8s, Rancher, Kafka, Redis, KeyDB, `Mongo, Prometheus, Consul, VictoriaMetrics, Grafana, MinIO, Elk, Ansible, Nexus)
     - Проектирование и создание HA vpn-bastion (ocserv)
     - Проектирование и создание собственной гибридной инфраструктуры на базе Proxmox, Vmware и облака  Lancloud на базе Haper-V.
     - Системы мониторинга Prometheus operator, Victoriametrics HA, Grafana, Karma.
@@ -34,7 +34,8 @@ experiences:
     - Управление конфигурациями (Ansible, Saltstack).
     - Система управления доступами (AD, Ldap)
     - Системы оркестрации Docker Swarm, Kubernetes(K3s, Rke, Rke2, Kubeadm).
-    - Проектировние кластера для IoT систем LXD(LXDMosaic), Резервное копирование (LXMIN), k8s(K3s). Система управления версиями ПО (Flux).  
+    - Проектировние кластера для IoT систем LXD(LXDMosaic), Резервное копирование (LXMIN), k8s(K3s). Система управления версиями ПО (Flux). 
+    - Преобразования docker-compose.yaml в Helm, а так же опыт написания чартов.  
       #  - designation: Junior Software Engineer
       #    start: Nov 2017
       #end: Oct 2019

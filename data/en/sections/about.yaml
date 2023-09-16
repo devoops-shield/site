@@ -8,18 +8,18 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Devops Engineer
 # your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+#company:
+#  name: Example Co.
+#  url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a Devops engineer with more than 5 years of experience. I created a design project for Magnitogorsk NMLK and Krasnadar NMLK based on [Kubernetes](https://kubernetes.io/), as well as Proxmox and Vmware. My favorite tools are Teraform, Packer, Ansible, Salstack, Docker, Podman, Helm, Helmfly and others'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -71,12 +71,12 @@ badges:
 
 - type: certification
   name: Fundamentals for Kyverno
-  url: "https://www.credly.com/earner/earned/badge/ee0ae201-e28c-4a77-8729-85b44fba0838"
+  url: "https://www.credly.com/badges/ee0ae201-e28c-4a77-8729-85b44fba0838"
   badge: "https://images.credly.com/size/340x340/images/fe23290a-b997-4fba-8ed7-a501de274f1e/Nirmata_Fundamentals_Certified_for_Kyverno__1_.png"
 
 - type: certification
   name: Cilium LoadBalancer IPAM and BGP Service Advertisement
-  url: "https://www.credly.com/earner/earned/badge/16b9b325-f45f-48fa-9e20-af2f94478da1"
+  url: "https://www.credly.com/badges/16b9b325-f45f-48fa-9e20-af2f94478da1"
   badge: "https://images.credly.com/size/340x340/images/ed9924cd-a75b-44e5-8576-137a6b72d708/image.png"
 
 - type: certification
@@ -87,12 +87,12 @@ badges:
 
 - type: certification
   name: Cilium Cluster Mesh
-  url: "https://www.credly.com/earner/earned/badge/2aa6cc08-46f0-4337-945a-77e601da6a19"
+  url: "https://www.credly.com/badges/2aa6cc08-46f0-4337-945a-77e601da6a19"
   badge: "https://images.credly.com/size/340x340/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png"
 
 - type: certification
   name:  Cilium Flow Encryption
-  url: "https://www.credly.com/earner/earned/badge/f4d362c5-5c3f-4c34-a82d-07ced8835db2"
+  url: "https://www.credly.com/badges/f4d362c5-5c3f-4c34-a82d-07ced8835db2"
   badge: "https://images.credly.com/size/340x340/images/cfd7b863-74e2-449f-96dd-956e0118ef28/image.png"
 
 - type: soft-skill-indicator
