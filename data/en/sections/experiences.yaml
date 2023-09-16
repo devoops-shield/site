@@ -25,7 +25,7 @@ experiences:
     responsibilities:
     - Design and creation of infrastructure in an isolated loop (Proxmox, Teraform, gpu sharing, Haproxy, K8s, Rancher, Kafka, Redis, KeyDB, `Mongo, Prometheus, Consul, VictoriaMetrics, Grafana, MinIO, Elk, Ansible, Nexus)
     - Design and creation of HA vpn-bastion (ocserv)
-    - Design and creation of your own hybrid infrastructure based on Proxmox, Vmware and Lancloud cloud based on Haper-V.
+    - Design and creation of your own hybrid infrastructure based on Proxmox, Vmware and Lancloud cloud based on Hyper-V.
     - Monitoring systems Prometheus operator, Victoriametrics HA, Grafana, Karma.
     - Logging systems ELK, EFK, EVK.
     - Configuring CEPH, MinIO, Glusterfs, OpenEBS storages, etc.
@@ -48,15 +48,15 @@ experiences:
     start: 2018
     #end: May 2017
     responsibilities:
-    -  Writing various kinds of REST-API integrations. (python, node.js, php)
+    -  Writing various kinds of REST-API integrations. (Python, Node.js, PHP)
     -  Building and configuring product environments.
-    -  Code build and delivery to production platforms. (gitlab ci/cd, jenkins, ansible)
+    -  Code build and delivery to production platforms. (Gitlab ci/cd, jenkins, Ansible)
     -  Building various kinds of VPN tunnels.
     -  Monitoring with zabbix,grafana,victoriametrics.
-    -  Administration of a fleet of servers based on linux, windows.
+    -  Administration of a fleet of servers based on Linux, Windows.
     -  Voip administration, queue setting, group calls, follow me, ivr, cdr, PBX monitoring, reporting.
     -  Working with Mysql, Postgres, Mongo databases.
-    -  Collection of logs efk, graylog.
+    -  Collection of logs EFK, Graylog.
 
 - company:
     name: Factory of information technologies
@@ -68,18 +68,18 @@ experiences:
     start: 2015
     end: 2018
     responsibilities:
-    - Administration of a fleet of computers based on linux, windows.
-    - Administration of servers based on Linux (centos, debian, proxmox, gentoo) Windows 2012, support for network equipment.
+    - Administration of a fleet of computers based on Linux, Windows.
+    - Administration of servers based on Linux (Centos, Debian, Proxmox, Gentoo) Windows 2012, support for network equipment.
     - Maintaining highly loaded HighLoad ++ sites in working condition 24/7 (2do2go.ru, all.culture.ru, culture.ru, cultreg.ru, vsopen.ru, etc.)
-    - Administration of Voip (asterisk), setting up queues, group calls, follow me, ivr, cdr, PBX monitoring, reporting.
-    - Site administration on different engines (modx, wordpress, joomla, yii, java)
-    - Building docker-images, and delivery to production sites (gitlab ci/cd, ansible)
+    - Administration of Voip (Asterisk), setting up queues, group calls, follow me, ivr, cdr, PBX monitoring, reporting.
+    - Site administration on different engines (Modx, Wordpress, Joomla, Yii, java)
+    - Building docker-images, and delivery to production sites (Gitlab ci/cd, Ansible)
     - Container cluster management (Swarm, Kubernetes.)
     - Creation of infomat based on OpenSource solutions.
     - Working with Mysql, Postgres, Mongo databases.
     - Working with PHP, Node.js, Java, Python.
-    - Monitoring with zabbix,grafana.
-    - Collection of logs efk, graylog.
+    - Monitoring with Zabbix, Grafana.
+    - Collection of logs EFK, Graylog.
 - company:
     name: MBOU Secondary School №40
     url: "https://school40bel.gosuslugi.ru/"
@@ -90,8 +90,8 @@ experiences:
     start: 2014
     end: 2015
     responsibilities:
-    - Maintenance of a computer park, OS server (windows, linux)
-    - Administration of servers based on Linux (debian, proxmox) Windows support for network equipment.
+    - Maintenance of a computer park, OS server (Windows, Linux)
+    - Administration of servers based on Linux (Debian, Proxmox) Windows support for network equipment.
     - Creation of own IPTV, service.
     - Repair and setup of peripheral computers (projectors, office equipment, etc.)
     - Maintenance and promotion of the official website of the organization. Technical support of the site
@@ -108,7 +108,7 @@ experiences:
     start: 2011
     end: 2011
     responsibilities:
-    - Maintenance of a computer park, OS server (windows, linux)
+    - Maintenance of a computer park, OS server (Windows, Linux)
     - Administration of Windows-based servers, support of network equipment.
     - Administration of servers, ip-telephony, mini PBX. Working with GSM and Voip modules, Asterisk.
     - Oracle database administration.
@@ -123,7 +123,7 @@ experiences:
     start: 2011
     end: 2011
     responsibilities:
-    - Maintenance of a computer park, OS server (windows, linux)
+    - Maintenance of a computer park, OS server (Windows, Linux)
     - Administration of Windows-based servers, support of network equipment.
     - Administration of servers, ip-telephony, mini PBX. Working with GSM and Voip modules, Asterisk.
     - Oracle database administration.

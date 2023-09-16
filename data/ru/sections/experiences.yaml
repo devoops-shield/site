@@ -25,7 +25,7 @@ experiences:
     responsibilities:
     - Проектирование и создание инфраструктуры в изолированном контуре (Proxmox, Teraform, gpu sharing,  Haproxy, K8s, Rancher, Kafka, Redis, KeyDB, `Mongo, Prometheus, Consul, VictoriaMetrics, Grafana, MinIO, Elk, Ansible, Nexus)
     - Проектирование и создание HA vpn-bastion (ocserv)
-    - Проектирование и создание собственной гибридной инфраструктуры на базе Proxmox, Vmware и облака  Lancloud на базе Haper-V.
+    - Проектирование и создание собственной гибридной инфраструктуры на базе Proxmox, Vmware и облака  Lancloud на базе Hyper-V.
     - Системы мониторинга Prometheus operator, Victoriametrics HA, Grafana, Karma.
     - Системы логирования ELK, EFK, EVK. 
     - Конфигурирование хранилищ CEPH, MinIO, Glusterfs, OpenEBS и др.
@@ -54,14 +54,14 @@ experiences:
     start: 2018
     #end: May 2017
     responsibilities:
-    -  Написание разного рода интеграций по REST-API.(python,node.js,php)
+    -  Написание разного рода интеграций по REST-API.(Python,Node.js,PHP)
     -  Cборка и насройка продовых окружений.
-    -  Сборка кода и доставка на продовые площадки. (gitlab ci/cd,jenkins,ansible) 
+    -  Сборка кода и доставка на продовые площадки. (Gitlab ci/cd,jenkins,Ansible) 
     -  Построение разного рода VPN туннелей.
-    -  Мониторинг с помощью zabbix, grafana, victoriametrics.  
-    -  Администрирование парка серверов на основе linux, windows.
+    -  Мониторинг с помощью Zabbix, Grafana, Victoriametrics.  
+    -  Администрирование парка серверов на основе Linux, Windows.
     -  Администрирование Voip, настройка очереди,групповые вызовы,follow me, ivr, cdr, мониторинг атс, создание отчетов.
-    -  Работа с базами данных mysql, postgresql, mongo.
+    -  Работа с базами данных Mysql, Postgresql, Mongo.
     -  Cбор логов efk, graylog.  
    
 - company:
@@ -74,12 +74,12 @@ experiences:
     start: 2015
     end: 2018
     responsibilities:
-    - Администрирование парка компьютеров на основе linux, windows. 
+    - Администрирование парка компьютеров на основе Linux, Windows. 
     - Администрирование серверов на базе Linux (Centos, Debian,Proxmox,Gentoo) Windows 2012, подержка сетевого оборудования.
     - Подержание высоко-нагруженных HighLoad++ площадок в рабочем состоянии 24/7 (2do2go.ru, all.culture.ru, culture.ru, cultreg.ru, vsopen.ru и др. )
-    - Администрирование Voip (asterisk), настройка очередей,групповые вызовы,follow me, ivr, cdr, мониторинг атс, создание отчетов.
-    - Администрирование сайтов на разных движках (modx, wordpress, joomla, yii, java)
-    - Cборка docker-images, и доставка на продовые площадки (gitlab ci/cd, ansible)
+    - Администрирование Voip (Asterisk), настройка очередей,групповые вызовы,follow me, ivr, cdr, мониторинг атс, создание отчетов.
+    - Администрирование сайтов на разных движках (Modx, Wordpress, Joomla, Yii, Java)
+    - Cборка docker-images, и доставка на продовые площадки (Gitlab ci/cd, Ansible)
     - Управления контейнерными кластерами (Swarm, Kubernetes.)
     - Создание инфомата на базе OpenSource решений.
     - Работа с базами данных Mysql, Postgresql, Mongo. 
@@ -97,8 +97,8 @@ experiences:
     start: 2014
     end: 2015
     responsibilities:
-    - Обслуживание парка компьютеров, сервера ОС (windows,linux)  
-    - Администрирование серверов на базе Linux (debian,proxmox) Windows  подержка сетевого оборудования.
+    - Обслуживание парка компьютеров, сервера ОС (Windows,Linux)  
+    - Администрирование серверов на базе Linux (Debian,Proxmox) Windows  подержка сетевого оборудования.
     - Создание собственого IPTV, обслуживание. 
     - Ремонт и настройка компютеров переферии (проекторы, оргтехника и тд.) 
     - Ведение и продвижение официального сайта организации.Техническое обеспечение сайта 
@@ -115,7 +115,7 @@ experiences:
     start: 2011
     end: 2011
     responsibilities:
-    - Обслуживание парка компьютеров, сервера ОС (windows,linux)  
+    - Обслуживание парка компьютеров, сервера ОС (Windows,Linux)  
     - Администрирование серверов на базе  Windows,  подержка сетевого оборудования.
     - Администрирование серверов, ip-телефонии, мини АТС.Работа с GSM и Voip модулями, Asterisk.
     - Администрирование баз данных Oracle.
@@ -130,7 +130,7 @@ experiences:
     start: 2011
     end: 2011
     responsibilities:
-    - Обслуживание парка компьютеров, сервера ОС (windows,linux)  
+    - Обслуживание парка компьютеров, сервера ОС (Windows,Linux)  
     - Администрирование серверов на базе  Windows,  подержка сетевого оборудования.
     - Администрирование серверов, ip-телефонии, мини АТС.Работа с GSM и Voip модулями, Asterisk.
     - Администрирование баз данных Oracle.     
