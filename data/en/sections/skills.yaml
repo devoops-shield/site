@@ -11,7 +11,7 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Инфраструктура
+- name: Infrastructure
   logo: "/images/sections/skills/infra.png"
   summary: "Creation and design of private and hybrid work using Proxmox, Vmware, Hyper-V virtualization hypervisors."
 # url: "https://kubernetes.io/"
